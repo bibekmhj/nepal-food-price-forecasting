@@ -2,7 +2,7 @@
 
 Code, frozen analysis plan, deviation log, forecast outputs, result tables and figures for the manuscript
 "Forecasting Retail Food Prices in Nepal with Machine Learning: A Rolling-Origin and Unseen-Market Evaluation"
-(Bibek Maharjan). Manuscript status: in preparation. [Add the article DOI here once published.]
+(Bibek Maharjan). Manuscript status: in preparation. [![DOI](https://zenodo.org/badge/1465610111.svg)](https://doi.org/10.5281/zenodo.24401263)
 
 The study compares a pooled LightGBM model with naive, seasonal naive, seasonal change mean, ETS, SARIMA and
 ridge forecasts of monthly retail food prices from the World Food Programme (WFP) price file for Nepal
