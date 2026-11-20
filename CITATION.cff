@@ -11,6 +11,7 @@ repository-code: "https://github.com/bibekmhj/nepal-food-price-forecasting"
 license: Apache-2.0
 version: "1.0.0"
 date-released: "2026-11-19"
+DOI: [![DOI](https://zenodo.org/badge/1465610111.svg)](https://doi.org/10.5281/zenodo.24401263)
 keywords:
   - food price forecasting
   - Nepal
