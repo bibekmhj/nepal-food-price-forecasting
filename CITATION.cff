@@ -8,6 +8,7 @@ authors:
     email: bibekmhj7426@gmail.com
     affiliation: "Home & Auto Lending Technology, JPMorgan Chase & Co., Wilmington, DE, USA"
 repository-code: "https://github.com/bibekmhj/nepal-food-price-forecasting"
+doi: 10.5281/zenodo.24401263
 license: Apache-2.0
 version: "1.0.0"
 date-released: "2026-11-19"

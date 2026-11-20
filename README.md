@@ -1,5 +1,7 @@
 # Forecasting retail food prices in Nepal with machine learning
 
+[![DOI](https://zenodo.org/badge/1465610111.svg)](https://doi.org/10.5281/zenodo.24401263)
+
 Code, frozen analysis plan, deviation log, forecast outputs, result tables and figures for the manuscript
 "Forecasting Retail Food Prices in Nepal with Machine Learning: A Rolling-Origin and Unseen-Market Evaluation"
 (Bibek Maharjan). Manuscript status: in preparation. [![DOI](https://zenodo.org/badge/1465610111.svg)](https://doi.org/10.5281/zenodo.24401263)
@@ -77,3 +79,7 @@ already in `results/`, and the output tables are identical to the committed ones
 ## Licence
 
 Code, results and figures: Apache License 2.0 (`LICENSE`). Data: WFP, CC BY-IGO, reproduced unchanged with attribution (`NOTICE`).
+
+## Fonts
+
+Figures use the Liberation Sans font (an Arial-compatible font). If it is not installed, matplotlib falls back to its default font and the figures will look slightly different.
