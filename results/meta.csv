@@ -1,0 +1,478 @@
+market,commodity,province,lat,lon,category
+Baglung,Apples,Province No. 4,28.25,83.6,vegetables and fruits
+Baglung,Bananas,Province No. 4,28.25,83.6,vegetables and fruits
+Baglung,Beans (black),Province No. 4,28.25,83.6,pulses and nuts
+Baglung,Cabbage,Province No. 4,28.25,83.6,vegetables and fruits
+Baglung,Carrots,Province No. 4,28.25,83.6,vegetables and fruits
+Baglung,Chickpeas,Province No. 4,28.25,83.6,pulses and nuts
+Baglung,Eggs,Province No. 4,28.25,83.6,"meat, fish and eggs"
+Baglung,Fish,Province No. 4,28.25,83.6,"meat, fish and eggs"
+Baglung,Lentils (broken),Province No. 4,28.25,83.6,pulses and nuts
+Baglung,Meat (chicken),Province No. 4,28.25,83.6,"meat, fish and eggs"
+Baglung,Milk,Province No. 4,28.25,83.6,milk and dairy
+Baglung,Oil (mustard),Province No. 4,28.25,83.6,oil and fats
+Baglung,Oil (soybean),Province No. 4,28.25,83.6,oil and fats
+Baglung,Oranges,Province No. 4,28.25,83.6,vegetables and fruits
+Baglung,Peanut,Province No. 4,28.25,83.6,pulses and nuts
+Baglung,Potatoes (red),Province No. 4,28.25,83.6,cereals and tubers
+Baglung,Pumpkin,Province No. 4,28.25,83.6,vegetables and fruits
+Baglung,Rice (coarse),Province No. 4,28.25,83.6,cereals and tubers
+Baglung,Rice (medium grain),Province No. 4,28.25,83.6,cereals and tubers
+Baglung,Tomatoes,Province No. 4,28.25,83.6,vegetables and fruits
+Baglung,Wheat flour,Province No. 4,28.25,83.6,cereals and tubers
+Bhairahawa,Apples,Province No. 5,27.5,83.44,vegetables and fruits
+Bhairahawa,Bananas,Province No. 5,27.5,83.44,vegetables and fruits
+Bhairahawa,Beans (black),Province No. 5,27.5,83.44,pulses and nuts
+Bhairahawa,Cabbage,Province No. 5,27.5,83.44,vegetables and fruits
+Bhairahawa,Carrots,Province No. 5,27.5,83.44,vegetables and fruits
+Bhairahawa,Chickpeas,Province No. 5,27.5,83.44,pulses and nuts
+Bhairahawa,Eggs,Province No. 5,27.5,83.44,"meat, fish and eggs"
+Bhairahawa,Fish,Province No. 5,27.5,83.44,"meat, fish and eggs"
+Bhairahawa,Lentils (broken),Province No. 5,27.5,83.44,pulses and nuts
+Bhairahawa,Meat (chicken),Province No. 5,27.5,83.44,"meat, fish and eggs"
+Bhairahawa,Milk,Province No. 5,27.5,83.44,milk and dairy
+Bhairahawa,Oil (mustard),Province No. 5,27.5,83.44,oil and fats
+Bhairahawa,Oil (soybean),Province No. 5,27.5,83.44,oil and fats
+Bhairahawa,Oranges,Province No. 5,27.5,83.44,vegetables and fruits
+Bhairahawa,Peanut,Province No. 5,27.5,83.44,pulses and nuts
+Bhairahawa,Potatoes (red),Province No. 5,27.5,83.44,cereals and tubers
+Bhairahawa,Pumpkin,Province No. 5,27.5,83.44,vegetables and fruits
+Bhairahawa,Rice (coarse),Province No. 5,27.5,83.44,cereals and tubers
+Bhairahawa,Rice (medium grain),Province No. 5,27.5,83.44,cereals and tubers
+Bhairahawa,Tomatoes,Province No. 5,27.5,83.44,vegetables and fruits
+Bhairahawa,Wheat flour,Province No. 5,27.5,83.44,cereals and tubers
+Biratnagar,Apples,Province No. 1,26.45,87.28,vegetables and fruits
+Biratnagar,Bananas,Province No. 1,26.45,87.28,vegetables and fruits
+Biratnagar,Beans (black),Province No. 1,26.45,87.28,pulses and nuts
+Biratnagar,Cabbage,Province No. 1,26.45,87.28,vegetables and fruits
+Biratnagar,Carrots,Province No. 1,26.45,87.28,vegetables and fruits
+Biratnagar,Chickpeas,Province No. 1,26.45,87.28,pulses and nuts
+Biratnagar,Eggs,Province No. 1,26.45,87.28,"meat, fish and eggs"
+Biratnagar,Fish,Province No. 1,26.45,87.28,"meat, fish and eggs"
+Biratnagar,Lentils (broken),Province No. 1,26.45,87.28,pulses and nuts
+Biratnagar,Meat (chicken),Province No. 1,26.45,87.28,"meat, fish and eggs"
+Biratnagar,Milk,Province No. 1,26.45,87.28,milk and dairy
+Biratnagar,Oil (mustard),Province No. 1,26.45,87.28,oil and fats
+Biratnagar,Oil (soybean),Province No. 1,26.45,87.28,oil and fats
+Biratnagar,Peanut,Province No. 1,26.45,87.28,pulses and nuts
+Biratnagar,Potatoes (red),Province No. 1,26.45,87.28,cereals and tubers
+Biratnagar,Pumpkin,Province No. 1,26.45,87.28,vegetables and fruits
+Biratnagar,Rice (coarse),Province No. 1,26.45,87.28,cereals and tubers
+Biratnagar,Rice (medium grain),Province No. 1,26.45,87.28,cereals and tubers
+Biratnagar,Tomatoes,Province No. 1,26.45,87.28,vegetables and fruits
+Biratnagar,Wheat flour,Province No. 1,26.45,87.28,cereals and tubers
+Birendranagar,Apples,Province No. 6,28.6,81.64,vegetables and fruits
+Birendranagar,Bananas,Province No. 6,28.6,81.64,vegetables and fruits
+Birendranagar,Beans (black),Province No. 6,28.6,81.64,pulses and nuts
+Birendranagar,Cabbage,Province No. 6,28.6,81.64,vegetables and fruits
+Birendranagar,Carrots,Province No. 6,28.6,81.64,vegetables and fruits
+Birendranagar,Chickpeas,Province No. 6,28.6,81.64,pulses and nuts
+Birendranagar,Eggs,Province No. 6,28.6,81.64,"meat, fish and eggs"
+Birendranagar,Fish,Province No. 6,28.6,81.64,"meat, fish and eggs"
+Birendranagar,Lentils (broken),Province No. 6,28.6,81.64,pulses and nuts
+Birendranagar,Meat (chicken),Province No. 6,28.6,81.64,"meat, fish and eggs"
+Birendranagar,Milk,Province No. 6,28.6,81.64,milk and dairy
+Birendranagar,Oil (mustard),Province No. 6,28.6,81.64,oil and fats
+Birendranagar,Oil (soybean),Province No. 6,28.6,81.64,oil and fats
+Birendranagar,Oranges,Province No. 6,28.6,81.64,vegetables and fruits
+Birendranagar,Peanut,Province No. 6,28.6,81.64,pulses and nuts
+Birendranagar,Potatoes (red),Province No. 6,28.6,81.64,cereals and tubers
+Birendranagar,Pumpkin,Province No. 6,28.6,81.64,vegetables and fruits
+Birendranagar,Rice (coarse),Province No. 6,28.6,81.64,cereals and tubers
+Birendranagar,Rice (medium grain),Province No. 6,28.6,81.64,cereals and tubers
+Birendranagar,Tomatoes,Province No. 6,28.6,81.64,vegetables and fruits
+Birendranagar,Wheat flour,Province No. 6,28.6,81.64,cereals and tubers
+Birgunj,Apples,Province No. 2,27.08,84.9,vegetables and fruits
+Birgunj,Bananas,Province No. 2,27.08,84.9,vegetables and fruits
+Birgunj,Beans (black),Province No. 2,27.08,84.9,pulses and nuts
+Birgunj,Cabbage,Province No. 2,27.08,84.9,vegetables and fruits
+Birgunj,Carrots,Province No. 2,27.08,84.9,vegetables and fruits
+Birgunj,Chickpeas,Province No. 2,27.08,84.9,pulses and nuts
+Birgunj,Eggs,Province No. 2,27.08,84.9,"meat, fish and eggs"
+Birgunj,Fish,Province No. 2,27.08,84.9,"meat, fish and eggs"
+Birgunj,Lentils (broken),Province No. 2,27.08,84.9,pulses and nuts
+Birgunj,Meat (chicken),Province No. 2,27.08,84.9,"meat, fish and eggs"
+Birgunj,Milk,Province No. 2,27.08,84.9,milk and dairy
+Birgunj,Oil (mustard),Province No. 2,27.08,84.9,oil and fats
+Birgunj,Oil (soybean),Province No. 2,27.08,84.9,oil and fats
+Birgunj,Peanut,Province No. 2,27.08,84.9,pulses and nuts
+Birgunj,Potatoes (red),Province No. 2,27.08,84.9,cereals and tubers
+Birgunj,Pumpkin,Province No. 2,27.08,84.9,vegetables and fruits
+Birgunj,Rice (coarse),Province No. 2,27.08,84.9,cereals and tubers
+Birgunj,Rice (medium grain),Province No. 2,27.08,84.9,cereals and tubers
+Birgunj,Tomatoes,Province No. 2,27.08,84.9,vegetables and fruits
+Birgunj,Wheat flour,Province No. 2,27.08,84.9,cereals and tubers
+Chainpur,Apples,Province No. 7,29.54,81.19,vegetables and fruits
+Chainpur,Bananas,Province No. 7,29.54,81.19,vegetables and fruits
+Chainpur,Beans (black),Province No. 7,29.54,81.19,pulses and nuts
+Chainpur,Cabbage,Province No. 7,29.54,81.19,vegetables and fruits
+Chainpur,Chickpeas,Province No. 7,29.54,81.19,pulses and nuts
+Chainpur,Eggs,Province No. 7,29.54,81.19,"meat, fish and eggs"
+Chainpur,Lentils (broken),Province No. 7,29.54,81.19,pulses and nuts
+Chainpur,Meat (chicken),Province No. 7,29.54,81.19,"meat, fish and eggs"
+Chainpur,Milk,Province No. 7,29.54,81.19,milk and dairy
+Chainpur,Oil (mustard),Province No. 7,29.54,81.19,oil and fats
+Chainpur,Oil (soybean),Province No. 7,29.54,81.19,oil and fats
+Chainpur,Potatoes (red),Province No. 7,29.54,81.19,cereals and tubers
+Chainpur,Pumpkin,Province No. 7,29.54,81.19,vegetables and fruits
+Chainpur,Rice (coarse),Province No. 7,29.54,81.19,cereals and tubers
+Chainpur,Rice (medium grain),Province No. 7,29.54,81.19,cereals and tubers
+Chainpur,Tomatoes,Province No. 7,29.54,81.19,vegetables and fruits
+Chainpur,Wheat flour,Province No. 7,29.54,81.19,cereals and tubers
+Dhangadhi,Apples,Province No. 7,28.69,80.66,vegetables and fruits
+Dhangadhi,Bananas,Province No. 7,28.69,80.66,vegetables and fruits
+Dhangadhi,Beans (black),Province No. 7,28.69,80.66,pulses and nuts
+Dhangadhi,Cabbage,Province No. 7,28.69,80.66,vegetables and fruits
+Dhangadhi,Chickpeas,Province No. 7,28.69,80.66,pulses and nuts
+Dhangadhi,Eggs,Province No. 7,28.69,80.66,"meat, fish and eggs"
+Dhangadhi,Fish,Province No. 7,28.69,80.66,"meat, fish and eggs"
+Dhangadhi,Lentils (broken),Province No. 7,28.69,80.66,pulses and nuts
+Dhangadhi,Meat (chicken),Province No. 7,28.69,80.66,"meat, fish and eggs"
+Dhangadhi,Milk,Province No. 7,28.69,80.66,milk and dairy
+Dhangadhi,Oil (mustard),Province No. 7,28.69,80.66,oil and fats
+Dhangadhi,Oil (soybean),Province No. 7,28.69,80.66,oil and fats
+Dhangadhi,Potatoes (red),Province No. 7,28.69,80.66,cereals and tubers
+Dhangadhi,Pumpkin,Province No. 7,28.69,80.66,vegetables and fruits
+Dhangadhi,Rice (coarse),Province No. 7,28.69,80.66,cereals and tubers
+Dhangadhi,Rice (medium grain),Province No. 7,28.69,80.66,cereals and tubers
+Dhangadhi,Tomatoes,Province No. 7,28.69,80.66,vegetables and fruits
+Dhangadhi,Wheat flour,Province No. 7,28.69,80.66,cereals and tubers
+Dhankuta,Apples,Province No. 1,26.98,87.33,vegetables and fruits
+Dhankuta,Bananas,Province No. 1,26.98,87.33,vegetables and fruits
+Dhankuta,Beans (black),Province No. 1,26.98,87.33,pulses and nuts
+Dhankuta,Cabbage,Province No. 1,26.98,87.33,vegetables and fruits
+Dhankuta,Carrots,Province No. 1,26.98,87.33,vegetables and fruits
+Dhankuta,Chickpeas,Province No. 1,26.98,87.33,pulses and nuts
+Dhankuta,Eggs,Province No. 1,26.98,87.33,"meat, fish and eggs"
+Dhankuta,Fish,Province No. 1,26.98,87.33,"meat, fish and eggs"
+Dhankuta,Lentils (broken),Province No. 1,26.98,87.33,pulses and nuts
+Dhankuta,Meat (chicken),Province No. 1,26.98,87.33,"meat, fish and eggs"
+Dhankuta,Milk,Province No. 1,26.98,87.33,milk and dairy
+Dhankuta,Oil (mustard),Province No. 1,26.98,87.33,oil and fats
+Dhankuta,Oil (soybean),Province No. 1,26.98,87.33,oil and fats
+Dhankuta,Peanut,Province No. 1,26.98,87.33,pulses and nuts
+Dhankuta,Potatoes (red),Province No. 1,26.98,87.33,cereals and tubers
+Dhankuta,Pumpkin,Province No. 1,26.98,87.33,vegetables and fruits
+Dhankuta,Rice (coarse),Province No. 1,26.98,87.33,cereals and tubers
+Dhankuta,Rice (medium grain),Province No. 1,26.98,87.33,cereals and tubers
+Dhankuta,Tomatoes,Province No. 1,26.98,87.33,vegetables and fruits
+Dhankuta,Wheat flour,Province No. 1,26.98,87.33,cereals and tubers
+Dunai,Apples,Province No. 6,28.93,82.87,vegetables and fruits
+Dunai,Bananas,Province No. 6,28.93,82.87,vegetables and fruits
+Dunai,Beans (black),Province No. 6,28.93,82.87,pulses and nuts
+Dunai,Cabbage,Province No. 6,28.93,82.87,vegetables and fruits
+Dunai,Carrots,Province No. 6,28.93,82.87,vegetables and fruits
+Dunai,Chickpeas,Province No. 6,28.93,82.87,pulses and nuts
+Dunai,Eggs,Province No. 6,28.93,82.87,"meat, fish and eggs"
+Dunai,Fish,Province No. 6,28.93,82.87,"meat, fish and eggs"
+Dunai,Lentils (broken),Province No. 6,28.93,82.87,pulses and nuts
+Dunai,Meat (chicken),Province No. 6,28.93,82.87,"meat, fish and eggs"
+Dunai,Milk,Province No. 6,28.93,82.87,milk and dairy
+Dunai,Oil (mustard),Province No. 6,28.93,82.87,oil and fats
+Dunai,Oil (soybean),Province No. 6,28.93,82.87,oil and fats
+Dunai,Peanut,Province No. 6,28.93,82.87,pulses and nuts
+Dunai,Potatoes (red),Province No. 6,28.93,82.87,cereals and tubers
+Dunai,Pumpkin,Province No. 6,28.93,82.87,vegetables and fruits
+Dunai,Rice (coarse),Province No. 6,28.93,82.87,cereals and tubers
+Dunai,Rice (medium grain),Province No. 6,28.93,82.87,cereals and tubers
+Dunai,Tomatoes,Province No. 6,28.93,82.87,vegetables and fruits
+Dunai,Wheat flour,Province No. 6,28.93,82.87,cereals and tubers
+Gamgadhi,Apples,Province No. 6,29.53,82.17,vegetables and fruits
+Gamgadhi,Bananas,Province No. 6,29.53,82.17,vegetables and fruits
+Gamgadhi,Beans (black),Province No. 6,29.53,82.17,pulses and nuts
+Gamgadhi,Cabbage,Province No. 6,29.53,82.17,vegetables and fruits
+Gamgadhi,Carrots,Province No. 6,29.53,82.17,vegetables and fruits
+Gamgadhi,Chickpeas,Province No. 6,29.53,82.17,pulses and nuts
+Gamgadhi,Eggs,Province No. 6,29.53,82.17,"meat, fish and eggs"
+Gamgadhi,Fish,Province No. 6,29.53,82.17,"meat, fish and eggs"
+Gamgadhi,Lentils (broken),Province No. 6,29.53,82.17,pulses and nuts
+Gamgadhi,Meat (chicken),Province No. 6,29.53,82.17,"meat, fish and eggs"
+Gamgadhi,Milk,Province No. 6,29.53,82.17,milk and dairy
+Gamgadhi,Oil (mustard),Province No. 6,29.53,82.17,oil and fats
+Gamgadhi,Oil (soybean),Province No. 6,29.53,82.17,oil and fats
+Gamgadhi,Peanut,Province No. 6,29.53,82.17,pulses and nuts
+Gamgadhi,Potatoes (red),Province No. 6,29.53,82.17,cereals and tubers
+Gamgadhi,Pumpkin,Province No. 6,29.53,82.17,vegetables and fruits
+Gamgadhi,Rice (coarse),Province No. 6,29.53,82.17,cereals and tubers
+Gamgadhi,Rice (medium grain),Province No. 6,29.53,82.17,cereals and tubers
+Gamgadhi,Tomatoes,Province No. 6,29.53,82.17,vegetables and fruits
+Gamgadhi,Wheat flour,Province No. 6,29.53,82.17,cereals and tubers
+Hetauda,Apples,Province No. 3,27.42,85.03,vegetables and fruits
+Hetauda,Bananas,Province No. 3,27.42,85.03,vegetables and fruits
+Hetauda,Beans (black),Province No. 3,27.42,85.03,pulses and nuts
+Hetauda,Cabbage,Province No. 3,27.42,85.03,vegetables and fruits
+Hetauda,Carrots,Province No. 3,27.42,85.03,vegetables and fruits
+Hetauda,Chickpeas,Province No. 3,27.42,85.03,pulses and nuts
+Hetauda,Eggs,Province No. 3,27.42,85.03,"meat, fish and eggs"
+Hetauda,Fish,Province No. 3,27.42,85.03,"meat, fish and eggs"
+Hetauda,Lentils (broken),Province No. 3,27.42,85.03,pulses and nuts
+Hetauda,Meat (chicken),Province No. 3,27.42,85.03,"meat, fish and eggs"
+Hetauda,Milk,Province No. 3,27.42,85.03,milk and dairy
+Hetauda,Oil (mustard),Province No. 3,27.42,85.03,oil and fats
+Hetauda,Oil (soybean),Province No. 3,27.42,85.03,oil and fats
+Hetauda,Oranges,Province No. 3,27.42,85.03,vegetables and fruits
+Hetauda,Peanut,Province No. 3,27.42,85.03,pulses and nuts
+Hetauda,Potatoes (red),Province No. 3,27.42,85.03,cereals and tubers
+Hetauda,Pumpkin,Province No. 3,27.42,85.03,vegetables and fruits
+Hetauda,Rice (coarse),Province No. 3,27.42,85.03,cereals and tubers
+Hetauda,Rice (medium grain),Province No. 3,27.42,85.03,cereals and tubers
+Hetauda,Tomatoes,Province No. 3,27.42,85.03,vegetables and fruits
+Hetauda,Wheat flour,Province No. 3,27.42,85.03,cereals and tubers
+Janakpurdham,Apples,Province No. 2,26.73,85.94,vegetables and fruits
+Janakpurdham,Bananas,Province No. 2,26.73,85.94,vegetables and fruits
+Janakpurdham,Beans (black),Province No. 2,26.73,85.94,pulses and nuts
+Janakpurdham,Cabbage,Province No. 2,26.73,85.94,vegetables and fruits
+Janakpurdham,Carrots,Province No. 2,26.73,85.94,vegetables and fruits
+Janakpurdham,Chickpeas,Province No. 2,26.73,85.94,pulses and nuts
+Janakpurdham,Eggs,Province No. 2,26.73,85.94,"meat, fish and eggs"
+Janakpurdham,Fish,Province No. 2,26.73,85.94,"meat, fish and eggs"
+Janakpurdham,Lentils (broken),Province No. 2,26.73,85.94,pulses and nuts
+Janakpurdham,Meat (chicken),Province No. 2,26.73,85.94,"meat, fish and eggs"
+Janakpurdham,Milk,Province No. 2,26.73,85.94,milk and dairy
+Janakpurdham,Oil (mustard),Province No. 2,26.73,85.94,oil and fats
+Janakpurdham,Oil (soybean),Province No. 2,26.73,85.94,oil and fats
+Janakpurdham,Peanut,Province No. 2,26.73,85.94,pulses and nuts
+Janakpurdham,Potatoes (red),Province No. 2,26.73,85.94,cereals and tubers
+Janakpurdham,Pumpkin,Province No. 2,26.73,85.94,vegetables and fruits
+Janakpurdham,Rice (coarse),Province No. 2,26.73,85.94,cereals and tubers
+Janakpurdham,Rice (medium grain),Province No. 2,26.73,85.94,cereals and tubers
+Janakpurdham,Tomatoes,Province No. 2,26.73,85.94,vegetables and fruits
+Janakpurdham,Wheat flour,Province No. 2,26.73,85.94,cereals and tubers
+Jumla Khalanga,Apples,Province No. 6,29.3,82.15,vegetables and fruits
+Jumla Khalanga,Bananas,Province No. 6,29.3,82.15,vegetables and fruits
+Jumla Khalanga,Beans (black),Province No. 6,29.3,82.15,pulses and nuts
+Jumla Khalanga,Cabbage,Province No. 6,29.3,82.15,vegetables and fruits
+Jumla Khalanga,Carrots,Province No. 6,29.3,82.15,vegetables and fruits
+Jumla Khalanga,Chickpeas,Province No. 6,29.3,82.15,pulses and nuts
+Jumla Khalanga,Eggs,Province No. 6,29.3,82.15,"meat, fish and eggs"
+Jumla Khalanga,Fish,Province No. 6,29.3,82.15,"meat, fish and eggs"
+Jumla Khalanga,Lentils (broken),Province No. 6,29.3,82.15,pulses and nuts
+Jumla Khalanga,Meat (chicken),Province No. 6,29.3,82.15,"meat, fish and eggs"
+Jumla Khalanga,Milk,Province No. 6,29.3,82.15,milk and dairy
+Jumla Khalanga,Oil (mustard),Province No. 6,29.3,82.15,oil and fats
+Jumla Khalanga,Oil (soybean),Province No. 6,29.3,82.15,oil and fats
+Jumla Khalanga,Peanut,Province No. 6,29.3,82.15,pulses and nuts
+Jumla Khalanga,Potatoes (red),Province No. 6,29.3,82.15,cereals and tubers
+Jumla Khalanga,Pumpkin,Province No. 6,29.3,82.15,vegetables and fruits
+Jumla Khalanga,Rice (coarse),Province No. 6,29.3,82.15,cereals and tubers
+Jumla Khalanga,Rice (medium grain),Province No. 6,29.3,82.15,cereals and tubers
+Jumla Khalanga,Tomatoes,Province No. 6,29.3,82.15,vegetables and fruits
+Jumla Khalanga,Wheat flour,Province No. 6,29.3,82.15,cereals and tubers
+Kathmandu,Apples,Province No. 3,27.72,85.32,vegetables and fruits
+Kathmandu,Bananas,Province No. 3,27.72,85.32,vegetables and fruits
+Kathmandu,Beans (black),Province No. 3,27.72,85.32,pulses and nuts
+Kathmandu,Cabbage,Province No. 3,27.72,85.32,vegetables and fruits
+Kathmandu,Carrots,Province No. 3,27.72,85.32,vegetables and fruits
+Kathmandu,Chickpeas,Province No. 3,27.72,85.32,pulses and nuts
+Kathmandu,Eggs,Province No. 3,27.72,85.32,"meat, fish and eggs"
+Kathmandu,Fish,Province No. 3,27.72,85.32,"meat, fish and eggs"
+Kathmandu,Lentils (broken),Province No. 3,27.72,85.32,pulses and nuts
+Kathmandu,Meat (chicken),Province No. 3,27.72,85.32,"meat, fish and eggs"
+Kathmandu,Milk,Province No. 3,27.72,85.32,milk and dairy
+Kathmandu,Oil (mustard),Province No. 3,27.72,85.32,oil and fats
+Kathmandu,Oil (soybean),Province No. 3,27.72,85.32,oil and fats
+Kathmandu,Oranges,Province No. 3,27.72,85.32,vegetables and fruits
+Kathmandu,Peanut,Province No. 3,27.72,85.32,pulses and nuts
+Kathmandu,Potatoes (red),Province No. 3,27.72,85.32,cereals and tubers
+Kathmandu,Pumpkin,Province No. 3,27.72,85.32,vegetables and fruits
+Kathmandu,Rice (coarse),Province No. 3,27.72,85.32,cereals and tubers
+Kathmandu,Rice (medium grain),Province No. 3,27.72,85.32,cereals and tubers
+Kathmandu,Tomatoes,Province No. 3,27.72,85.32,vegetables and fruits
+Kathmandu,Wheat flour,Province No. 3,27.72,85.32,cereals and tubers
+Liwang,Apples,Province No. 5,28.34,82.63,vegetables and fruits
+Liwang,Bananas,Province No. 5,28.34,82.63,vegetables and fruits
+Liwang,Beans (black),Province No. 5,28.34,82.63,pulses and nuts
+Liwang,Cabbage,Province No. 5,28.34,82.63,vegetables and fruits
+Liwang,Carrots,Province No. 5,28.34,82.63,vegetables and fruits
+Liwang,Chickpeas,Province No. 5,28.34,82.63,pulses and nuts
+Liwang,Eggs,Province No. 5,28.34,82.63,"meat, fish and eggs"
+Liwang,Fish,Province No. 5,28.34,82.63,"meat, fish and eggs"
+Liwang,Lentils (broken),Province No. 5,28.34,82.63,pulses and nuts
+Liwang,Meat (chicken),Province No. 5,28.34,82.63,"meat, fish and eggs"
+Liwang,Milk,Province No. 5,28.34,82.63,milk and dairy
+Liwang,Oil (mustard),Province No. 5,28.34,82.63,oil and fats
+Liwang,Oil (soybean),Province No. 5,28.34,82.63,oil and fats
+Liwang,Oranges,Province No. 5,28.34,82.63,vegetables and fruits
+Liwang,Peanut,Province No. 5,28.34,82.63,pulses and nuts
+Liwang,Potatoes (red),Province No. 5,28.34,82.63,cereals and tubers
+Liwang,Pumpkin,Province No. 5,28.34,82.63,vegetables and fruits
+Liwang,Rice (coarse),Province No. 5,28.34,82.63,cereals and tubers
+Liwang,Rice (medium grain),Province No. 5,28.34,82.63,cereals and tubers
+Liwang,Tomatoes,Province No. 5,28.34,82.63,vegetables and fruits
+Liwang,Wheat flour,Province No. 5,28.34,82.63,cereals and tubers
+Mangalsen,Apples,Province No. 7,29.1,81.23,vegetables and fruits
+Mangalsen,Bananas,Province No. 7,29.1,81.23,vegetables and fruits
+Mangalsen,Beans (black),Province No. 7,29.1,81.23,pulses and nuts
+Mangalsen,Cabbage,Province No. 7,29.1,81.23,vegetables and fruits
+Mangalsen,Chickpeas,Province No. 7,29.1,81.23,pulses and nuts
+Mangalsen,Eggs,Province No. 7,29.1,81.23,"meat, fish and eggs"
+Mangalsen,Lentils (broken),Province No. 7,29.1,81.23,pulses and nuts
+Mangalsen,Meat (chicken),Province No. 7,29.1,81.23,"meat, fish and eggs"
+Mangalsen,Milk,Province No. 7,29.1,81.23,milk and dairy
+Mangalsen,Oil (mustard),Province No. 7,29.1,81.23,oil and fats
+Mangalsen,Oil (soybean),Province No. 7,29.1,81.23,oil and fats
+Mangalsen,Potatoes (red),Province No. 7,29.1,81.23,cereals and tubers
+Mangalsen,Pumpkin,Province No. 7,29.1,81.23,vegetables and fruits
+Mangalsen,Rice (coarse),Province No. 7,29.1,81.23,cereals and tubers
+Mangalsen,Rice (medium grain),Province No. 7,29.1,81.23,cereals and tubers
+Mangalsen,Tomatoes,Province No. 7,29.1,81.23,vegetables and fruits
+Mangalsen,Wheat flour,Province No. 7,29.1,81.23,cereals and tubers
+Martadi,Apples,Province No. 7,29.43,81.5,vegetables and fruits
+Martadi,Bananas,Province No. 7,29.43,81.5,vegetables and fruits
+Martadi,Beans (black),Province No. 7,29.43,81.5,pulses and nuts
+Martadi,Cabbage,Province No. 7,29.43,81.5,vegetables and fruits
+Martadi,Chickpeas,Province No. 7,29.43,81.5,pulses and nuts
+Martadi,Eggs,Province No. 7,29.43,81.5,"meat, fish and eggs"
+Martadi,Lentils (broken),Province No. 7,29.43,81.5,pulses and nuts
+Martadi,Meat (chicken),Province No. 7,29.43,81.5,"meat, fish and eggs"
+Martadi,Milk,Province No. 7,29.43,81.5,milk and dairy
+Martadi,Oil (mustard),Province No. 7,29.43,81.5,oil and fats
+Martadi,Oil (soybean),Province No. 7,29.43,81.5,oil and fats
+Martadi,Potatoes (red),Province No. 7,29.43,81.5,cereals and tubers
+Martadi,Pumpkin,Province No. 7,29.43,81.5,vegetables and fruits
+Martadi,Rice (coarse),Province No. 7,29.43,81.5,cereals and tubers
+Martadi,Rice (medium grain),Province No. 7,29.43,81.5,cereals and tubers
+Martadi,Tomatoes,Province No. 7,29.43,81.5,vegetables and fruits
+Martadi,Wheat flour,Province No. 7,29.43,81.5,cereals and tubers
+Musikot,Apples,Province No. 6,28.61,82.48,vegetables and fruits
+Musikot,Bananas,Province No. 6,28.61,82.48,vegetables and fruits
+Musikot,Beans (black),Province No. 6,28.61,82.48,pulses and nuts
+Musikot,Cabbage,Province No. 6,28.61,82.48,vegetables and fruits
+Musikot,Carrots,Province No. 6,28.61,82.48,vegetables and fruits
+Musikot,Chickpeas,Province No. 6,28.61,82.48,pulses and nuts
+Musikot,Eggs,Province No. 6,28.61,82.48,"meat, fish and eggs"
+Musikot,Fish,Province No. 6,28.61,82.48,"meat, fish and eggs"
+Musikot,Lentils (broken),Province No. 6,28.61,82.48,pulses and nuts
+Musikot,Meat (chicken),Province No. 6,28.61,82.48,"meat, fish and eggs"
+Musikot,Milk,Province No. 6,28.61,82.48,milk and dairy
+Musikot,Oil (mustard),Province No. 6,28.61,82.48,oil and fats
+Musikot,Oil (soybean),Province No. 6,28.61,82.48,oil and fats
+Musikot,Oranges,Province No. 6,28.61,82.48,vegetables and fruits
+Musikot,Peanut,Province No. 6,28.61,82.48,pulses and nuts
+Musikot,Potatoes (red),Province No. 6,28.61,82.48,cereals and tubers
+Musikot,Pumpkin,Province No. 6,28.61,82.48,vegetables and fruits
+Musikot,Rice (coarse),Province No. 6,28.61,82.48,cereals and tubers
+Musikot,Rice (medium grain),Province No. 6,28.61,82.48,cereals and tubers
+Musikot,Tomatoes,Province No. 6,28.61,82.48,vegetables and fruits
+Musikot,Wheat flour,Province No. 6,28.61,82.48,cereals and tubers
+Narayanghat,Apples,Province No. 3,27.65,84.39,vegetables and fruits
+Narayanghat,Bananas,Province No. 3,27.65,84.39,vegetables and fruits
+Narayanghat,Beans (black),Province No. 3,27.65,84.39,pulses and nuts
+Narayanghat,Cabbage,Province No. 3,27.65,84.39,vegetables and fruits
+Narayanghat,Carrots,Province No. 3,27.65,84.39,vegetables and fruits
+Narayanghat,Chickpeas,Province No. 3,27.65,84.39,pulses and nuts
+Narayanghat,Eggs,Province No. 3,27.65,84.39,"meat, fish and eggs"
+Narayanghat,Fish,Province No. 3,27.65,84.39,"meat, fish and eggs"
+Narayanghat,Lentils (broken),Province No. 3,27.65,84.39,pulses and nuts
+Narayanghat,Meat (chicken),Province No. 3,27.65,84.39,"meat, fish and eggs"
+Narayanghat,Milk,Province No. 3,27.65,84.39,milk and dairy
+Narayanghat,Oil (mustard),Province No. 3,27.65,84.39,oil and fats
+Narayanghat,Oil (soybean),Province No. 3,27.65,84.39,oil and fats
+Narayanghat,Oranges,Province No. 3,27.65,84.39,vegetables and fruits
+Narayanghat,Peanut,Province No. 3,27.65,84.39,pulses and nuts
+Narayanghat,Potatoes (red),Province No. 3,27.65,84.39,cereals and tubers
+Narayanghat,Pumpkin,Province No. 3,27.65,84.39,vegetables and fruits
+Narayanghat,Rice (coarse),Province No. 3,27.65,84.39,cereals and tubers
+Narayanghat,Rice (medium grain),Province No. 3,27.65,84.39,cereals and tubers
+Narayanghat,Tomatoes,Province No. 3,27.65,84.39,vegetables and fruits
+Narayanghat,Wheat flour,Province No. 3,27.65,84.39,cereals and tubers
+Nepalgunj,Apples,Province No. 5,28.06,81.65,vegetables and fruits
+Nepalgunj,Bananas,Province No. 5,28.06,81.65,vegetables and fruits
+Nepalgunj,Beans (black),Province No. 5,28.06,81.65,pulses and nuts
+Nepalgunj,Cabbage,Province No. 5,28.06,81.65,vegetables and fruits
+Nepalgunj,Carrots,Province No. 5,28.06,81.65,vegetables and fruits
+Nepalgunj,Chickpeas,Province No. 5,28.06,81.65,pulses and nuts
+Nepalgunj,Eggs,Province No. 5,28.06,81.65,"meat, fish and eggs"
+Nepalgunj,Fish,Province No. 5,28.06,81.65,"meat, fish and eggs"
+Nepalgunj,Lentils (broken),Province No. 5,28.06,81.65,pulses and nuts
+Nepalgunj,Meat (chicken),Province No. 5,28.06,81.65,"meat, fish and eggs"
+Nepalgunj,Milk,Province No. 5,28.06,81.65,milk and dairy
+Nepalgunj,Oil (mustard),Province No. 5,28.06,81.65,oil and fats
+Nepalgunj,Oil (soybean),Province No. 5,28.06,81.65,oil and fats
+Nepalgunj,Oranges,Province No. 5,28.06,81.65,vegetables and fruits
+Nepalgunj,Peanut,Province No. 5,28.06,81.65,pulses and nuts
+Nepalgunj,Potatoes (red),Province No. 5,28.06,81.65,cereals and tubers
+Nepalgunj,Pumpkin,Province No. 5,28.06,81.65,vegetables and fruits
+Nepalgunj,Rice (coarse),Province No. 5,28.06,81.65,cereals and tubers
+Nepalgunj,Rice (medium grain),Province No. 5,28.06,81.65,cereals and tubers
+Nepalgunj,Tomatoes,Province No. 5,28.06,81.65,vegetables and fruits
+Nepalgunj,Wheat flour,Province No. 5,28.06,81.65,cereals and tubers
+Phidim,Apples,Province No. 1,27.12,87.8,vegetables and fruits
+Phidim,Bananas,Province No. 1,27.12,87.8,vegetables and fruits
+Phidim,Beans (black),Province No. 1,27.12,87.8,pulses and nuts
+Phidim,Cabbage,Province No. 1,27.12,87.8,vegetables and fruits
+Phidim,Carrots,Province No. 1,27.12,87.8,vegetables and fruits
+Phidim,Chickpeas,Province No. 1,27.12,87.8,pulses and nuts
+Phidim,Eggs,Province No. 1,27.12,87.8,"meat, fish and eggs"
+Phidim,Fish,Province No. 1,27.12,87.8,"meat, fish and eggs"
+Phidim,Lentils (broken),Province No. 1,27.12,87.8,pulses and nuts
+Phidim,Meat (chicken),Province No. 1,27.12,87.8,"meat, fish and eggs"
+Phidim,Milk,Province No. 1,27.12,87.8,milk and dairy
+Phidim,Oil (mustard),Province No. 1,27.12,87.8,oil and fats
+Phidim,Oil (soybean),Province No. 1,27.12,87.8,oil and fats
+Phidim,Oranges,Province No. 1,27.12,87.8,vegetables and fruits
+Phidim,Peanut,Province No. 1,27.12,87.8,pulses and nuts
+Phidim,Potatoes (red),Province No. 1,27.12,87.8,cereals and tubers
+Phidim,Pumpkin,Province No. 1,27.12,87.8,vegetables and fruits
+Phidim,Rice (coarse),Province No. 1,27.12,87.8,cereals and tubers
+Phidim,Rice (medium grain),Province No. 1,27.12,87.8,cereals and tubers
+Phidim,Tomatoes,Province No. 1,27.12,87.8,vegetables and fruits
+Phidim,Wheat flour,Province No. 1,27.12,87.8,cereals and tubers
+Pokhara,Apples,Province No. 4,28.21,83.99,vegetables and fruits
+Pokhara,Bananas,Province No. 4,28.21,83.99,vegetables and fruits
+Pokhara,Beans (black),Province No. 4,28.21,83.99,pulses and nuts
+Pokhara,Cabbage,Province No. 4,28.21,83.99,vegetables and fruits
+Pokhara,Carrots,Province No. 4,28.21,83.99,vegetables and fruits
+Pokhara,Chickpeas,Province No. 4,28.21,83.99,pulses and nuts
+Pokhara,Eggs,Province No. 4,28.21,83.99,"meat, fish and eggs"
+Pokhara,Fish,Province No. 4,28.21,83.99,"meat, fish and eggs"
+Pokhara,Lentils (broken),Province No. 4,28.21,83.99,pulses and nuts
+Pokhara,Meat (chicken),Province No. 4,28.21,83.99,"meat, fish and eggs"
+Pokhara,Milk,Province No. 4,28.21,83.99,milk and dairy
+Pokhara,Oil (mustard),Province No. 4,28.21,83.99,oil and fats
+Pokhara,Oil (soybean),Province No. 4,28.21,83.99,oil and fats
+Pokhara,Oranges,Province No. 4,28.21,83.99,vegetables and fruits
+Pokhara,Peanut,Province No. 4,28.21,83.99,pulses and nuts
+Pokhara,Potatoes (red),Province No. 4,28.21,83.99,cereals and tubers
+Pokhara,Pumpkin,Province No. 4,28.21,83.99,vegetables and fruits
+Pokhara,Rice (coarse),Province No. 4,28.21,83.99,cereals and tubers
+Pokhara,Rice (medium grain),Province No. 4,28.21,83.99,cereals and tubers
+Pokhara,Tomatoes,Province No. 4,28.21,83.99,vegetables and fruits
+Pokhara,Wheat flour,Province No. 4,28.21,83.99,cereals and tubers
+Rajbiraj,Apples,Province No. 2,26.54,86.77,vegetables and fruits
+Rajbiraj,Bananas,Province No. 2,26.54,86.77,vegetables and fruits
+Rajbiraj,Beans (black),Province No. 2,26.54,86.77,pulses and nuts
+Rajbiraj,Cabbage,Province No. 2,26.54,86.77,vegetables and fruits
+Rajbiraj,Carrots,Province No. 2,26.54,86.77,vegetables and fruits
+Rajbiraj,Chickpeas,Province No. 2,26.54,86.77,pulses and nuts
+Rajbiraj,Eggs,Province No. 2,26.54,86.77,"meat, fish and eggs"
+Rajbiraj,Fish,Province No. 2,26.54,86.77,"meat, fish and eggs"
+Rajbiraj,Lentils (broken),Province No. 2,26.54,86.77,pulses and nuts
+Rajbiraj,Meat (chicken),Province No. 2,26.54,86.77,"meat, fish and eggs"
+Rajbiraj,Milk,Province No. 2,26.54,86.77,milk and dairy
+Rajbiraj,Oil (mustard),Province No. 2,26.54,86.77,oil and fats
+Rajbiraj,Oil (soybean),Province No. 2,26.54,86.77,oil and fats
+Rajbiraj,Peanut,Province No. 2,26.54,86.77,pulses and nuts
+Rajbiraj,Potatoes (red),Province No. 2,26.54,86.77,cereals and tubers
+Rajbiraj,Pumpkin,Province No. 2,26.54,86.77,vegetables and fruits
+Rajbiraj,Rice (coarse),Province No. 2,26.54,86.77,cereals and tubers
+Rajbiraj,Rice (medium grain),Province No. 2,26.54,86.77,cereals and tubers
+Rajbiraj,Tomatoes,Province No. 2,26.54,86.77,vegetables and fruits
+Rajbiraj,Wheat flour,Province No. 2,26.54,86.77,cereals and tubers
+Simikot,Apples,Province No. 6,30.13,81.92,vegetables and fruits
+Simikot,Bananas,Province No. 6,30.13,81.92,vegetables and fruits
+Simikot,Beans (black),Province No. 6,30.13,81.92,pulses and nuts
+Simikot,Cabbage,Province No. 6,30.13,81.92,vegetables and fruits
+Simikot,Carrots,Province No. 6,30.13,81.92,vegetables and fruits
+Simikot,Chickpeas,Province No. 6,30.13,81.92,pulses and nuts
+Simikot,Eggs,Province No. 6,30.13,81.92,"meat, fish and eggs"
+Simikot,Lentils (broken),Province No. 6,30.13,81.92,pulses and nuts
+Simikot,Meat (chicken),Province No. 6,30.13,81.92,"meat, fish and eggs"
+Simikot,Oil (mustard),Province No. 6,30.13,81.92,oil and fats
+Simikot,Oil (soybean),Province No. 6,30.13,81.92,oil and fats
+Simikot,Peanut,Province No. 6,30.13,81.92,pulses and nuts
+Simikot,Pumpkin,Province No. 6,30.13,81.92,vegetables and fruits
+Simikot,Rice (coarse),Province No. 6,30.13,81.92,cereals and tubers
+Simikot,Rice (medium grain),Province No. 6,30.13,81.92,cereals and tubers
+Simikot,Tomatoes,Province No. 6,30.13,81.92,vegetables and fruits
+Simikot,Wheat flour,Province No. 6,30.13,81.92,cereals and tubers

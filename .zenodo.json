@@ -1,0 +1,14 @@
+{
+  "title": "Code and results for: Forecasting Retail Food Prices in Nepal with Machine Learning: A Rolling-Origin and Unseen-Market Evaluation",
+  "upload_type": "software",
+  "description": "<p>Python code, frozen analysis plan, deviation log, forecast outputs, result tables and figures for a rolling-origin and unseen-market evaluation of machine learning forecasts of monthly retail food prices in Nepal, using the World Food Programme retail price file from the Humanitarian Data Exchange (snapshot of 19 November 2026, CC BY-IGO). The repository reproduces every table and figure of the accompanying manuscript.</p>",
+  "creators": [
+    {
+      "name": "Maharjan, Bibek",
+      "affiliation": "Home & Auto Lending Technology, JPMorgan Chase & Co., Wilmington, DE, USA"
+    }
+  ],
+  "license": "apache-2.0",
+  "keywords": ["food price forecasting", "Nepal", "machine learning", "gradient boosting", "forecast evaluation", "LightGBM"],
+  "access_right": "open"
+}

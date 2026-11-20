@@ -1,0 +1,10 @@
+# Versions used for every result in the manuscript (Python 3.13)
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+statsmodels==0.15.0
+matplotlib==3.11.2
+geopandas==0.14.4
+adjustText==1.4.0

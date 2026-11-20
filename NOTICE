@@ -1,0 +1,11 @@
+Data attribution
+----------------
+data/wfp_food_prices_npl.csv is a snapshot of the dataset "Nepal - Food Prices" published by the
+World Food Programme (WFP) on the Humanitarian Data Exchange (HDX):
+https://data.humdata.org/dataset/wfp-food-prices-for-nepal
+Downloaded on 19 November 2026. SHA-256: 7270e1463d195ddea8e37b8497ed854164d976c7d8ad699937aa94246bcc257b
+License shown on the dataset page: Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO).
+The data are reproduced unchanged, with attribution to WFP. WFP does not endorse this work.
+Check the dataset page for the exact attribution text and for newer versions before reuse.
+
+Code and derived results (src/, results/, figures/, docs/) are released under the Apache License 2.0 (see LICENSE).
